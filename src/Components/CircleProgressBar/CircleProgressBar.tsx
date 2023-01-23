@@ -2,7 +2,7 @@
 import React, { useEffect } from "react";
 // React
 // CSS
-import styles from "./CircleProgressbar.module.css";
+import styles from "./CircleProgressBar.module.css";
 // CSS
 
 type CircleProgressbarProps = {

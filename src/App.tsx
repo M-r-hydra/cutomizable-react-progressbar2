@@ -1,10 +1,10 @@
 // React
 import React from "react";
+import CircleProgressbar from "./Components/CircleProgressBar/CircleProgressBar";
 // React
 // CSS
 // CSS
 // Components
-import CircleProgressbar from "./Components/CircleProgressBar/CircleProgressBar";
 // Components
 
 const App = () => {
